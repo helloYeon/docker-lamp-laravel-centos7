@@ -37,8 +37,8 @@ docker-lamp-laravel-centos7/
 
 1. clone this repository
   ```bash
-git clone git@github.com:yeon444/docker-lamp-laravel-centos7.git
-cd docker-lamp-laravel-centos7.git
+  git clone git@github.com:yeon444/docker-lamp-laravel-centos7.git
+  cd docker-lamp-laravel-centos7.git
   ```
 1. run docker compose
 ```
