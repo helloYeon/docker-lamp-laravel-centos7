@@ -69,6 +69,7 @@ $docker-compose exec web bash
 ```
 
 ### 4.Confirm
->Access to http://127.0.0.1:10080/
+> `Access to http://127.0.0.1:10080/`
+
 ![aa](https://github.com/yeon444/docker-lamp-laravel-centos7/blob/images/env_setting_ok.png)
 
