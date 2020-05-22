@@ -71,5 +71,5 @@ $docker-compose exec web bash
 ### 4.Confirm
 
 ![aa](https://github.com/yeon444/docker-lamp-laravel-centos7/blob/images/env_setting_ok.png)
-
+![秋田犬](https://github.com/yoshitaku-jp/test_doc/blob/images/dog_akitainu.png)
 
