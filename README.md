@@ -1,5 +1,5 @@
 # docker-lamp-laravel-centos7
-This is a multi domain basic LAMP environment built using Docker Compose. It consists following.
+This is a basic LAMP environment built using Docker Compose. It consists following.
 
 - php7.3
 - centos7
@@ -8,15 +8,6 @@ This is a multi domain basic LAMP environment built using Docker Compose. It con
 - composer
 - node js (Gulp)
 
-## Installation
-```bash
-# clone this repository
-git clone git@github.com:yeon444/docker-lamp-laravel-centos7.git
-cd docker-lamp-laravel-centos7.git
-
-# run docker compose
-docker-compose up -d --build
-```
 ## Constitution
 ```
 docker-lamp-laravel-centos7/
@@ -40,3 +31,16 @@ docker-lamp-laravel-centos7/
 └── src
 
 ```
+
+
+## Installation
+
+1. clone this repository
+```bash
+git clone git@github.com:yeon444/docker-lamp-laravel-centos7.git
+cd docker-lamp-laravel-centos7.git
+```
+1. run docker compose
+```
+docker-compose up -d --build
+
