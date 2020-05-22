@@ -73,3 +73,9 @@ $docker-compose exec web bash
 
 ![aa](https://github.com/yeon444/docker-lamp-laravel-centos7/blob/images/env_setting_ok.png)
 
+
+## TODO
+1. add php Xdebug
+1. add phpMyAdmin
+
+
