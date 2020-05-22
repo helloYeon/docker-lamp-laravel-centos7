@@ -1,3 +1,4 @@
+
 # docker-lamp-laravel-centos7
 This is a basic LAMP environment built using Docker Compose. It consists following.
 
@@ -63,13 +64,11 @@ $docker-compose exec web bash
 $docker-compose restart
 
 # access to container $ migrate
-```
 $docker-compose exec web bash
 [root@5f2582e9f467 html]# php artisan migrate
 ```
 
 ### 4.Confirm
-
+>Access to http://127.0.0.1:10080/
 ![aa](https://github.com/yeon444/docker-lamp-laravel-centos7/blob/images/env_setting_ok.png)
-![秋田犬](https://github.com/yoshitaku-jp/test_doc/blob/images/dog_akitainu.png)
 
